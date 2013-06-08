@@ -1,0 +1,6 @@
+*.[oa]
+*~
+*pyc
+*swp
+.DS_Store
+.env
